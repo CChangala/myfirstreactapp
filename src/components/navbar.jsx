@@ -4,15 +4,13 @@ import styles from './NavBar.module.css';
 import {getImageUrl} from "../utils";
 
 function NavBar(){
-    const [menuOpen,setMenuOpen] = useState('false');
+    const [menuOpen,setMenuOpen] = useState(false);
     return (
         <nav className={styles.navbar}>
             <a href="#portfolio" className={styles.title}>Portfolio</a>
             <div className={styles.menu}>
                 <img className={styles.menuBtn} src={ 
-                    menuOpen?
-                    getImageUrl('nav/closeIcon.png'):
-                    getImageUrl('nav/menuIcon.png')
+                    menuOpen?getImageUrl('nav/closeIcon.png'):getImageUrl('nav/menuIcon.png')
                     } 
                     alt='menu-button' 
                     onClick ={()=>{
