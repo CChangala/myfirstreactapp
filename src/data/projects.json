@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Decentralized Health Record Management System",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an application for secured and tamper free patient data management",
+      "skills": ["Js", "Web3", "React", "Solidity"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Digital Voting with Aadhar ID and Fingerprint",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an application that enables users to authenticate via Aadhar and fingerprint",
+      "skills": ["XML","Andriod Studio", "Java", "Firebase"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
