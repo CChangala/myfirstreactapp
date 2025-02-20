@@ -10,7 +10,7 @@ function Hero() {
                 <p className={styles.description}>I'm a Software Developer with 1 year of industrial experience with React, Node.js, Spring Boot and other Development Skills. Reach out if you'd like to know more! </p>
                 <a className={styles.contact} href ="mailto:chaitanyachangala8@gmail.com">Contact Me</a>
             </div>
-            <img className={styles.heroImg} src = {getImageUrl('hero/heroImage.png')} alt='Image of Me'/>
+            <img className={styles.heroImg} src = {getImageUrl('hero/heroImage.png')} alt='Smiling me'/>
             <div className={styles.topBlur}></div>
             <div className={styles.bottonBLur}></div>
         </section>
